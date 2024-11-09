@@ -2,7 +2,7 @@
 FFMPEG fast converting in Windows context menu
 
 # How to use
-1. Download [this](https://github.com/coponhub/FFMPEG-ContextMenu-fortw/archive/refs/heads/main.zip)
+1. Download zip file from [this](https://github.com/coponhub/FFMPEG-ContextMenu-fortw/releases/latest)
 2. Extract folder in archive to `C:\Windows`
 3. Run script `C:\Windows\ffmpegcontext\__ENABLE_FFMPEG__.bat`
 4. Try right click on any file (if you on win11 then click `Show more options`)
